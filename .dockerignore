@@ -1,0 +1,13 @@
+# compiled output
+/node_modules
+/src
+/test
+/.history
+/.vscode
+.*
+nest-cli.json
+package-lock.json
+README.md
+swagger-spec.json
+tsconfig*
+Dockerfile
